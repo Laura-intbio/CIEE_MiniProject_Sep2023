@@ -1,0 +1,74 @@
+---
+title           : "Preregistration for the CIEE Mini Project"
+shorttitle      : "Preregistration"
+date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+
+author: 
+  - name        : Laura Dutheil
+    affiliation : 1
+
+affiliation:
+  - id          : 1
+    institution : Integrative Biology Department, University of Guelph
+
+
+output: prereg::prereg_pdf
+---
+
+<!-- To keep pre-registrations to a reasonable length for readers, we recommend answers fit within a single page .pdf document, roughly 3200 characters. Read more about this here: https://aspredicted.org/messages/why_limits.php -->
+
+## Data collection
+
+<!-- Have any data been collected for this study already? (Note: "Yes" is not an accepted answer.) -->
+
+**Yes,** the data used in this project has already been collected as we are using the palmerpenguin package.
+
+## Hypothesis
+
+<!-- What's the main question being asked or hypothesis being tested in this study? -->
+
+> We hypothesize that the average body masses of penguins inhabiting different islands will be variable, i.e. the body masses will be different from one another.
+
+## Dependent variable
+
+<!-- Describe the key dependent variable(s) specifying how they will be measured. -->
+
+> The dependent variable is the body mass (in grams) of penguins.
+
+## Conditions
+
+<!-- How many and which conditions will participants be assigned to? -->
+
+> Penguins will be assigned to one of three conditions: belonging to the Biscoe island, belonging to the Dream island, or belonging to the Torgersen island.
+
+## Analyses
+
+<!-- Specify exactly which analyses you will conduct to examine the main question/hypothesis. -->
+
+> The analyses for this study will include calculating the average of body mass values for all penguins belonging to each condition (each island), and summarizing these values in a figure.
+
+## Outliers and exclusions
+
+<!-- Describe exactly how outliers will be defined and handled, and your precise rule(s) for excluding observations. -->
+
+> In the case of outliers, these will be determined using boxplot figures and excluded from the analyses.
+
+## Sample size
+
+<!-- How many observations will be collected or what will determine sample size? No need to justify decision, but be precise about _exactly_ how the number will be determined. -->
+
+> There will be over 300 penguin specimens recorded in the dataset, with a minimum of 50 penguins per island.
+
+## Study type
+
+Finally. For record keeping purposes, please tell us the type of study you are pre-registering.
+
+-   Class project or assignment
+
+```{=tex}
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+```
+\noindent

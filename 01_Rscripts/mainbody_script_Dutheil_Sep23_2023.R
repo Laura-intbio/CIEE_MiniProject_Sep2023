@@ -14,6 +14,9 @@ library(palmerpenguins)
 install.packages("ggplot2")
 library(ggplot2)
 
+# Setting our working directory so that this script is stored in the correct folder
+setwd("./01_Rscripts")
+
 # Loading the palmer penguin data
 PenguinData <- palmerpenguins::penguins
 view(PenguinData)

@@ -1,0 +1,3 @@
+There are only two variables to be conserned with here. 
+island: the name of the islands in which the penguins are located (Biscoe, Dream, Torgersen)
+mean_body_mass: the average of the body masses for all of the penguins found in that respective island, with the unit being grams

@@ -1,0 +1,2 @@
+This file folder contains the raw data that gets saved to this file through the R project in the Rscript folder. 
+It is recommended that you specify the csv file as a read only file, to avoid accidental changes. 

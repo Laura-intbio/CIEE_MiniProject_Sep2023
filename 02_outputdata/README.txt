@@ -1,0 +1,2 @@
+This is the folder where output data is stored and preserved, rather than just being included in the R environment. 
+This folder will be populated with a csv file when running the R script in the Rscripts folder. 

@@ -1,0 +1,3 @@
+Main variables used: 
+Island: the name of the island in which the penguins are situated.
+Body_mass_g: the body mass of individual penguins recorded in grams. 
